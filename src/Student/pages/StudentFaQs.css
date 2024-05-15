@@ -1,0 +1,23 @@
+.FAQS-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: justify;
+  max-width: 775px; /* Adjust the value as needed */
+  margin: 0 auto; /* Center the container horizontally */
+
+}
+
+.FAQS-answers-container {
+  border: 10px solid #800000; /* Add border style */
+  border-radius: 10px; /* Optional: Add border radius for rounded corners */
+  padding: 5px; /* Optional: Add padding for spacing */
+  margin-bottom: 5px; /* Optional: Add margin bottom for spacing between FAQ sections */
+}
+
+.title {
+  border: 10px solid #800000; /* Add border style */
+  border-radius: 10px; /* Optional: Add border radius for rounded corners */
+  padding: 5px; /* Optional: Add padding for spacing */
+  margin-bottom: 5px; /* Optional: Add margin bottom for spacing between FAQ sections */
+}
